@@ -1,0 +1,15 @@
+# OpenSpec Configuration
+
+version: "1.0"
+
+# Project metadata
+project:
+  name: "CyberDesk"
+  description: "Unmanned OS Shell - Autonomous system operation"
+
+# Default tools (can be overridden)
+tools: []
+
+# Change template defaults
+changes:
+  default_branch: "main"
